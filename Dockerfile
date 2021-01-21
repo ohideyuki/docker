@@ -1,3 +1,4 @@
 From centos
-ENV name Docker
+ENV name DokcerHub
 ENTRYPOINT echo "hello $name"
+
